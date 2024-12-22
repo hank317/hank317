@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=hank317&show_icons=true&theme=transparent)
+<!--![](https://github-readme-stats.vercel.app/api?username=hank317&show_icons=true&theme=transparent)-->
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/hank317/count.svg)visitor, thank you :kissing_heart:
+
 
 
