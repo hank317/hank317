@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Hank.
 
 ## ✨ Newbie NLP ✨ 
-We focuses on developing low-threshold and quickly usable NLP tools or projects, requiring no AI knowledge.  
+:dart: We focuses on developing low-threshold and quickly usable NLP tools or projects, requiring no AI knowledge.  
 We look forward to your star and download. At the same time, we also welcome cooperation and exchanges.  
 
 <!--
