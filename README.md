@@ -1,4 +1,4 @@
-## Hi there 👋 I am Hank.
+## Hi there 👋. I am Hank.
 
 ## ✨ Newbie NLP ✨ 
 :dart: We focuses on developing low-threshold and quickly usable NLP tools or projects, requiring no AI knowledge.  
