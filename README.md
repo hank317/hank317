@@ -2,7 +2,7 @@
 
 ## ✨ Newbie NLP ✨ 
 :dart: We focuses on developing low-threshold and quickly usable NLP tools or projects, requiring no AI knowledge.  
-We look forward to your star and download. At the same time, we also welcome cooperation and exchanges.  
+:open_hands: We look forward to your star and download. At the same time, we also welcome cooperation and exchanges.  
 
 <!--
 **hank317/hank317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
