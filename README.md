@@ -1,4 +1,9 @@
-## Hi there 👋. I am Hank.
+## Hi there 👋.
+Welcome to visit my GitHub homepage. I am Hank.
+I am a PhD candidate in computational linguistics, and I enjoy exploring the applications of artificial intelligence in linguistics.
+Main research directions:
+- Information retrieval
+- Semantic representation
 
 ## ✨ Newbie NLP ✨ 
 ![newbie_logo](./images/newbie_logo.png)
