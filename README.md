@@ -1,5 +1,5 @@
 ## Hi there 👋.
-👋 Welcome to visit my GitHub homepage. 
+👋 Welcome to visit my GitHub homepage.  
 👨‍🎓 I am Hank, a PhD candidate in computational linguistics.  
 - Information retrieval
 - Semantic representation
