@@ -3,6 +3,7 @@
 👨‍🎓 I am Hank, a PhD candidate in computational linguistics.  
 - Information retrieval
 - Semantic representation
+- Dialogue system
 
 ## ✨ Newbie NLP ✨ 
 ![newbie_logo](./images/newbie_logo.png)
